@@ -1,11 +1,48 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-title" content="Matirola">
+
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+    {% elsif page.excerpt %}
+    <meta name="description" content="{{ page.excerpt | strip_html }}" />
+    {% else %}
+    <meta name="description" content="{{ site.description }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+    {% endif %}
+
+
+    <!-- Open graph -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    {% if page.date %}
+    <meta property="og:type" content="article" />
+    {% else %}
+    <meta property="og:type" content="website" />
+    {% endif %}
+    <meta property="og:url" content="{{ site.url }}{% if page.rooturl != 'home' %}{% if page.rooturl %}/{{ page.rooturl }}{% else %}{{ page.url }}{% endif %}{% endif %}" />
+    <meta property="og:locale" content="en_GB" />
+    <meta property="og:site_name" content="Matirola" />
+    <meta property="og:image" content="{{ site.url }}/images/xtouch-icon.png" />
+    <meta property="og:image:width" content="152" />
+    <meta property="og:image:height" content="152" />
+    <meta property="og:image" content="{{ site.url }}/images/layout/matirola_website.jpg" />
+    <meta property="og:image:width" content="400" />
+    <meta property="og:image:height" content="300" />
+    {% if page.image %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:image" content="{{ site.url }}/images/blog/{{ page.image }}" />
+    {% endif %}
+
+
+    <link rel="shortcut icon" type="image/ico" href="/images/favicon.ico" />
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.png" />
+    <link rel="apple-touch-icon" type="image/png" href="/images/xtouch-icon.png"/>
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}">
