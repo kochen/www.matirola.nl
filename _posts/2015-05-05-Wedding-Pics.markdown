@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2015-05-14
+img: w-pics.jpg
+alt: Wedding Pictuers
+project-date: May 2014
+client: Matirola
+category: Wedding
+description: Come back soon for more information!
+
+---
