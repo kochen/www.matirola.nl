@@ -12,30 +12,27 @@ color:
 # Footer settings
 footer:
   copyright: Matirola
-  location: Location
+  location: Ketelhuis
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    name: Carola's Facebook
+    url: https://www.facebook.com/carola.degroot8
+  - title: facebook
+    name: Mati's Facebook
+    url: https://www.facebook.com/matikochen
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Trompstraat 88
-  - line: Amersfoort, 3814 ST
-  
+  - line: Soesterweg 320
+  - line: 3812 BH Amersfoort
+  - line: '<a href="http://www.centraalketelhuis.nl" target="blank">http://www.centraalketelhuis.nl</a>'
+
 # Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '"Matirola" was first mentioned by our dear friend Ohad.<br />All <a href="http://en.wikipedia.org/wiki/Royalties" title="תמלוגים" target="_blank">tamlugim</a> go to him... ;-)'
 
 # Build settings
 markdown: kramdown

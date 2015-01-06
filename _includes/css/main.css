@@ -194,19 +194,19 @@ section.success {
     }
 }
 
-#portfolio .portfolio-item {
+#wedding .wedding-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+#wedding .wedding-item .wedding-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption {
+#wedding .wedding-item .wedding-link .caption {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -217,11 +217,11 @@ section.success {
     transition: all ease .5s;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption:hover {
+#wedding .wedding-item .wedding-link .caption:hover {
     opacity: 1;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+#wedding .wedding-item .wedding-link .caption .caption-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -232,21 +232,21 @@ section.success {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
+#wedding .wedding-item .wedding-link .caption .caption-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
+#wedding .wedding-item .wedding-link .caption .caption-content h3,
+#wedding .wedding-item .wedding-link .caption .caption-content h4 {
     margin: 0;
 }
 
-#portfolio * {
+#wedding * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
+    #wedding .wedding-item {
         margin: 0 0 30px;
     }
 }
@@ -385,7 +385,7 @@ footer .footer-below {
     outline: 0;
 }
 
-.portfolio-modal .modal-content {
+.wedding-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
     border: 0;
@@ -396,20 +396,20 @@ footer .footer-below {
     box-shadow: none;
 }
 
-.portfolio-modal .modal-content h2 {
+.wedding-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content img {
+.wedding-modal .modal-content img {
     margin-bottom: 30px;
 }
 
-.portfolio-modal .modal-content .item-details {
+.wedding-modal .modal-content .item-details {
     margin: 30px 0;
 }
 
-.portfolio-modal .close-modal {
+.wedding-modal .close-modal {
     position: absolute;
     top: 25px;
     right: 25px;
@@ -419,11 +419,11 @@ footer .footer-below {
     cursor: pointer;
 }
 
-.portfolio-modal .close-modal:hover {
+.wedding-modal .close-modal:hover {
     opacity: .3;
 }
 
-.portfolio-modal .close-modal .lr {
+.wedding-modal .close-modal .lr {
     z-index: 1051;
     width: 1px;
     height: 75px;
@@ -434,7 +434,7 @@ footer .footer-below {
     transform: rotate(45deg);
 }
 
-.portfolio-modal .close-modal .lr .rl {
+.wedding-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
     height: 75px;
@@ -442,4 +442,72 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+#about .row p{text-align: justify;}
+#about .col-lg-offset-2{padding-right:10px;}
+#about .col-lg-4, #about .col-lg-8{padding-left:10px;}
+#about .col-lg-8{margin-top: 20px;}
+.col-lg-12 .img-responsive
+{
+    border-radius: 145px;
+}
+
+#heart {
+    position: relative;
+    width: 20px;
+    height: 17px;
+}
+#heart:before,
+#heart:after {
+    position: absolute;
+    content: "";
+    left: 10px;
+    top: 0;
+    width: 10px;
+    height: 17px;
+    background: white;
+    -moz-border-radius: 10px 10px 0 0;
+    border-radius: 10px 10px 0 0;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    -webkit-transform-origin: 0 100%;
+    -moz-transform-origin: 0 100%;
+    -ms-transform-origin: 0 100%;
+    -o-transform-origin: 0 100%;
+    transform-origin: 0 100%;
+}
+#heart:after {
+    left: 0;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    -webkit-transform-origin: 100% 100%;
+    -moz-transform-origin: 100% 100%;
+    -ms-transform-origin: 100% 100%;
+    -o-transform-origin: 100% 100%;
+    transform-origin :100% 100%;
+}
+
+ul.gallery li {
+    list-style:none;
+    margin:12px;
+}
+ul.gallery li img {
+    height:85px;
+    width: 123px;
+    border-radius: 25px;
+}
+
+#wedding .img-responsive
+{
+    margin: 0 auto;
+    border-radius: 150px;
+    width:269px;
+    height: 269px;
 }
