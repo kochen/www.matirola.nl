@@ -17,12 +17,13 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "http://formspree.io/web@matirola.nl",
+                url: "//formspree.io/mariska@matirola.nl",
                 method: "POST",
                 data: {
                     name: name,
                     email: email,
-                    message: message
+                    message: message,
+                    subject: "You've got Mail"
                 },
                 dataType: "json",
                 cache: false,
