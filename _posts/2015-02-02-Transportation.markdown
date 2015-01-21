@@ -21,7 +21,7 @@ Private taxis can be find just outside the main entrance to Schiphol Airport Arr
 * * *
 
 #### by Car
-Upon arrival at Schiphol, it's also possible to hire a car which will obviously give a bit more flexibility during the time of stay in the NL. All major car rentals (e.g. Sixt, Europcar, Budget, etc') have offices at Schiphol Plaza directly behind Arrivals 3 (opening hours from 06.00 to 23.00) from where you can pick up the [rented car](http://www.schiphol.nl/Travellers/ToFromSchiphol/CarRental.htm). To prevent the stress and hassle of hunting for good prices on the spot, one could pre-book a rental car online in advance.
+Upon arrival at Schiphol, it's also possible to hire a car which will obviously give a bit more flexibility during the time of stay in the NL. All major car rentals (e.g. Sixt, Europcar, Budget, etc...) have offices at Schiphol Plaza directly behind Arrivals 3 (opening hours from 06.00 to 23.00) from where you can pick up the [rented car](http://www.schiphol.nl/Travellers/ToFromSchiphol/CarRental.htm). To prevent the stress and hassle of hunting for good prices on the spot, one could pre-book a rental car online in advance.
 Sites that might offer good deals:
 
 * [Kemwel](http://www.kemwel.com)
@@ -31,7 +31,7 @@ Sites that might offer good deals:
 
 #### by Train
 Below Schiphol Plaza, you’ll find the train station of Schiphol. From there, every half an hour (.37 and .07) a super speedy direct train departs to Amersfoort, normally from platform 1 or 2. The trip to Amersfoort takes up to 43 minutes and costs about 10 euro’s per person. 
-The last direct train departs at 23.37 o clock. If you arrive later (yet before 00.11), it’s still possible to travel by train to Amersfoort - albeit then you have to change trains at least once. Check for for information about traveling by train in the Netherlands and the timetable: [NS](http://www.ns.nl/en/travellers/home).
+The last direct train departs at 23.37 o clock. If you arrive later (yet before 00.11), it’s still possible to travel by train to Amersfoort - albeit then you have to change trains at least once. Check for information about traveling by train in the Netherlands and the timetable [NS](http://www.ns.nl/en/travellers/home).
 Train tickets can be bought at one of the many yellow ticket machines with the blue overhead sign reading ‘traintickets’. The machines can be found at Schiphol Plaza near the platforms. From the machines, you can either purchase a single-use (disposable) chipcard or an anonymous ov-chipcard. More information about the differences between the different ov-chipcards can be found [here](https://www.ov-chipkaart.nl/aanvragen/welkekaartpastbiju/toeristen/?taal=en).
 
 * * *
