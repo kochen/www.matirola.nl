@@ -7,6 +7,6 @@ alt: Sweet Surprise
 project-date: May 2014
 client: Matirola
 category: Wedding
-description: Come back soon for more information!
+description: Come back after the wedding for a sweet surprise!
 
 ---
