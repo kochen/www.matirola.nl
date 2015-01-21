@@ -15,7 +15,6 @@ src="https://www.google.com/maps/embed/v1/directions
 ?key=AIzaSyDCgI5_2SLoc0p9gZ1DXNE7V4M7-OzkhwE
 &origin=Schiphol+Netherlands
 &destination=Amersfoort+Netherlands
-&zoom=10
 "></iframe>
 
 #### by Taxi
