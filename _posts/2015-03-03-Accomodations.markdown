@@ -19,7 +19,7 @@ description: Amersfoort has a very picturesque historic inner city, with lovely 
 #### Mercure Hotel | De Nieuwe Poort 20 Amersfoort
 (only 1.2 km to Centraal Ketelhuis)
 
-Situated near Amersfoort’s newest square, het Eemplein that boarders a cute little harbour, and has a couple of nice restaurants and terraces this brand new hotel offers modern rooms. It’s located exactly in between the city centre and the Centraal Ketelhuis.
+Situated near Amersfoort’s newest square, het Eemplein that boarders a cute little harbour and has a couple of nice restaurants and terraces, this brand new hotel offers modern rooms. It’s located exactly in between the city centre and the Centraal Ketelhuis.
 
 Read more [here](http://www.mercure.com/gb/hotel-8996-mercure-hotel-amersfoort-centre/index.shtml).
 
@@ -42,7 +42,7 @@ Read more [here](http://www.nh-hotels.com/hotel/nh-amersfoort?nhagentid=10166&nh
 The Lange Jan Hotel is located in the heart of Amersfoort next to the ‘Lange Jan’,
 a tall, historic tower that is beautifully lighted during the evening and night. The
 hotel offers ‘compact’ (probably a nicer word for small ;-) ) rooms with views over
-the old town. Big perk: it’s situated next to Charlie’s, best burgers in town Some
+the old town. Big perk: it’s situated next to Charlie’s, best burgers in town. Some
 (but not all) of the rooms have shared bathroom facilities... 
 
 Read more [here](http://www.langejanhotel.nl).
@@ -79,6 +79,7 @@ More information can be found on [booking.com](http://www.booking.com/hotel/nl/j
 A cute Bed & Breakfast in the city centre. The website promises
 stylish rooms, including a Nespresso machine and a flat-screen TV
 with DVD player. 
+
 Read more in [Dutch](www.innegentienvijf.nl) and in Spanish or English at [booking.com](http://www.booking.com/hotel/nl/in-negentienvijf.en-gb.html?aid=311984;label=in-negentienvijf-T2dOdEzk2MDcfQG4DdQLuAS44432184193;sid=fef612b5a59b03840c64d75ab8019ccc;dcid=4;ucfs=1;srfid=fc083da3a590b363e03699e2299576c4954c73afX1;highlight_room=). 
 
 * * *
@@ -86,7 +87,7 @@ Read more in [Dutch](www.innegentienvijf.nl) and in Spanish or English at [booki
 #### Hotel de Tabaksplant | Coninckstraat 15 Amersfoort
 (2.5 km to Centraal Ketelhuis)
 
-**Hotel de Tabaksplant**, wich means tobacco plant, is a cosy hotel situated in a
+Hotel de Tabaksplant, which means tobacco plant, is a cosy hotel situated in a
 quiet street just around the corner of the main shopping streets the Kamp and the
 Langestraat. The hotel offers cute rooms as well as some apartments (up to four
 people) and has a large, private city garden with a medieval fountain and terraces.
