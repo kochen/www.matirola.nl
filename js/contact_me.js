@@ -17,7 +17,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//formspree.io/mariska@matirola.nl",
+                url: "//formspree.io/wed@matirola.nl",
                 method: "POST",
                 data: {
                     name: name,
