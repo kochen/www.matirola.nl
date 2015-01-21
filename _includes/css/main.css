@@ -511,3 +511,8 @@ ul.gallery li img {
     width:269px;
     height: 269px;
 }
+
+.wedding-modal .modal-body
+{
+    text-align: left;
+}
