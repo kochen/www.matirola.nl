@@ -20,3 +20,4 @@ The program of our big day is not yet finalized, but to give you already a small
 
 Especially for those who are coming from abroad: the plan is to organise some fun activities for the Friday and Saturday after the wedding so that we have more time to meet up and show you a bit more of our lovely hometown. Come back soon for more information about the plans; and feel free to join whenever you feel like :) 
 
+---
