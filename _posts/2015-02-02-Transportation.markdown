@@ -10,12 +10,10 @@ category: Wedding
 description: Our picturesque hometown Amersfoort is located in the center of the Netherlands, only a 40 minute train ride away from Schiphol Airport and easily to be reached over road/rail track. 
 ---
 ### Reaching Amersfoort
-<iframe width="750" height="563" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/directions
-?key=AIzaSyDCgI5_2SLoc0p9gZ1DXNE7V4M7-OzkhwE
-&origin=Schiphol+Netherlands
-&destination=Amersfoort+Netherlands
-"></iframe>
+![Route from Amsterdam/Schiphol to Amersfoort](/img/Amsterdam_to_Amerfoort.png "Route from Amsterdam/Schiphol to Amersfoort")
+Click here for a [live map](https://www.google.co.il/maps/dir/Schiphol+Amsterdam+Airport,+Evert+van+de+Beekstraat+202,+1118+CP+Schiphol,+Netherlands/Amersfoort,+Netherlands/@52.2016849,4.7920825,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47c5e134e0fd162d:0xc7d51583f1cef188!2m2!1d4.768274!2d52.310539!1m5!1m1!1s0x47c65a9d79977bf1:0x3c16cc2a7f76991e!2m2!1d5.3878266!2d52.1561113).
+
+<br />
 
 #### by Taxi
 Private taxis can be find just outside the main entrance to Schiphol Airport Arrivals or at the train station level. Although taxi’s are obviously more expensive than public transport, one can reduce the taxi costs by pre-booking a taxi in advance. There are various taxi companies offering transportation between Schiphol and Amersfoort; the price per way is normally around 60 euro’s and a taxi can be shared with a maximum of 4 persons:
