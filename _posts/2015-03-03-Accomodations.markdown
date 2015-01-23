@@ -7,7 +7,7 @@ alt: Accomodations
 project-date: May 2014
 client: Matirola
 category: Wedding
-description: Amersfoort has a very picturesque historic inner city, with lovely canal houses, historical monuments, churches (be prepared for some bell tolling in the weekend), plenty of very nice restaurants, shops and – if the weather is – terraces. Most of the accommodations Amersfoort has to offer are located in and around this part of the city. From the centre, it’s possible to reach our wedding location, het Centraal Ketelhuis, by taxi or by bus (<a href="http://www.9292.nl/en">9292</a>). Every half an hour a bus (bus 1) departs from the main train station (Centraal Station) in the direction of het Centraal Ketelhuis; this bus also passes by the city centre at bus stop ‘Stadhuis’. Hop off at the bus stop ‘Emmauskerk’; from here it’s a 5-minute walk to the venue.
+description: Amersfoort has a very picturesque historic inner city, with lovely canal houses, historical monuments, churches (be prepared for some bell tolling in the weekend...), plenty of good restaurants, shops and – if the weather is – terraces.<br />Most of the hotels and B&B's are located in and around the centre. From the centre, our wedding location, het Centraal Ketelhuis, can be easily reached by taxi or by bus (<a href="http://www.9292.nl/en">9292</a>). Every half an hour a bus (bus 1) departs from the main train station (Centraal Station) in the direction of het Centraal Ketelhuis; this bus also passes by the city centre at bus stop ‘Stadhuis’. Hop off at the bus stop ‘Emmauskerk’; from here it’s a 5-minute walk to the venue.
 
 ---
 
