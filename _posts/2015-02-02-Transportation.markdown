@@ -7,11 +7,11 @@ alt: Transportation
 project-date: May 2014
 client: Matirola
 category: Wedding
-description: Our picturesque hometown Amersfoort is located in the center of the Netherlands, only a 40 minute train ride away from Schiphol Airport and easily to be reached over road/rail track. 
+description: Our picturesque hometown Amersfoort is located in the center of the Netherlands, only a 40 minute train ride away from Schiphol Airport and easily to be reached over road/rail track.<br />For those visiting us from abroad, good deals can often be found in <a href="http://www.skyscanner.net/">SkyScanner</a>.
 ---
 ### Reaching Amersfoort
 ![Route from Amsterdam/Schiphol to Amersfoort](/img/Amsterdam_to_Amerfoort.png "Route from Amsterdam/Schiphol to Amersfoort")
-Click here for a [live map](https://www.google.co.il/maps/dir/Schiphol+Amsterdam+Airport,+Evert+van+de+Beekstraat+202,+1118+CP+Schiphol,+Netherlands/Amersfoort,+Netherlands/@52.2016849,4.7920825,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47c5e134e0fd162d:0xc7d51583f1cef188!2m2!1d4.768274!2d52.310539!1m5!1m1!1s0x47c65a9d79977bf1:0x3c16cc2a7f76991e!2m2!1d5.3878266!2d52.1561113).
+Click here for the [route to Centraal Ketelhuis](https://www.google.co.il/maps/dir/Schiphol+Amsterdam+Airport,+Evert+van+de+Beekstraat+202,+1118+CP+Schiphol,+Netherlands/Soesterweg+320,+3812+BH+Amersfoort,+Netherlands/@52.2516018,4.7719898,10z/data=!3m1!4b1!4m11!4m10!1m5!1m1!1s0x47c5e134e0fd162d:0xc7d51583f1cef188!2m2!1d4.768274!2d52.310539!1m3!2m2!1d5.3808605!2d52.1659862).
 
 <br />
 
