@@ -532,3 +532,8 @@ code
     color: #ACB6C0;
     font-size: 110%;
 }
+
+#contactForm small
+{
+    font-size: 100%;
+}
