@@ -39,6 +39,15 @@ $(function() {
 
                     //clear all fields
                     $('#contactForm').trigger("reset");
+
+                    ga('send',
+                        'event',
+                        {
+                            eventCategory: 'contact',
+                            eventAction: 'Contact Us',
+                            eventLabel: 'Contact Form'
+                        }
+                    );
                 },
                 error: function() {
                     // Fail message
