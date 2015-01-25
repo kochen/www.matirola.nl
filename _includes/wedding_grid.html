@@ -12,7 +12,15 @@
                 {% assign sorted_posts = (site.posts | sort: 'modal-id') %}
                 {% for post in sorted_posts %}
                     <div class="col-sm-4 wedding-item">
-                        <a href="#weddingModal-{{ post.modal-id }}" class="wedding-link" data-toggle="modal">
+                        <a href="#weddingModal-{{ post.modal-id }}" class="wedding-link" data-toggle="modal"
+                           onclick="
+                                       ga('send', {
+                                            'hitType':  'pageview',
+                                            'page': '{{ post.modal-id }}',
+                                            'title': '{{ post.title }}'
+                                        });
+                           "
+                        >
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
