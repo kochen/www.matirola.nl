@@ -1,4 +1,14 @@
- <!-- Portfolio Modals -->
+<!-- Google Analytics - Page View -->
+<script type="text/javascript">
+
+    ga('send', {
+        'hitType':  'pageview',
+        'page': '{{ post.modal-id }}',
+        'title': '{{ post.title | replace: "'", "\\'" }}'
+    });
+</script>
+
+<!-- Portfolio Modals -->
  {% for post in site.posts %}
     <div class="wedding-modal modal fade" id="weddingModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
