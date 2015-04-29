@@ -537,3 +537,11 @@ code
 {
     font-size: 100%;
 }
+
+span.wdate
+{
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 39px;
+}

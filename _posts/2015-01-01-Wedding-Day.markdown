@@ -7,13 +7,13 @@ alt: Wedding Day
 project-date: May 2014
 client: Matirola
 category: Wedding
-description: Our Wedding Day (still <i>under construction</i> :-) )
+description: <span class="wdate">14-05-2014</span>
 
 ---
 The program of our big day is not yet finalized, but to give you already a small glimpse, the program will roughly look like this:
 
 * `17.00 - 17.15` Welcome at the Centraal Ketelhuis
-* `17.30 - 18.30` ‘We do’! Ceremony-time :)
+* `17.15 - 18.30` ‘We do’! Ceremony-time :)
 * `18.30 - 19.00` Pie & Bubbles 
 * `19.00 - 20.30` Drinks & Pics
 * `20.30 - 23.00` Foodie time!
