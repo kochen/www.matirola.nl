@@ -4,7 +4,7 @@ modal-id: 2
 date: 2015-05-14
 img: transportation.jpg
 alt: Transportation
-project-date: May 2014
+project-date: May 2015
 client: Matirola
 category: Wedding
 description: Our picturesque hometown Amersfoort is located in the center of the Netherlands, only a 40 minute train ride away from Schiphol Airport and easily to be reached over road/rail track.<br />For those visiting us from abroad, good deals can often be found in <a href="http://www.skyscanner.net/">SkyScanner</a>.

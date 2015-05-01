@@ -4,10 +4,10 @@ modal-id: 1
 date: 2015-05-14
 img: w-day.jpg
 alt: Wedding Day
-project-date: May 2014
+project-date: May 2015
 client: Matirola
 category: Wedding
-description: <span class="wdate">14-05-2014</span>
+description: <span class="wdate">14-05-2015</span>
 
 ---
 The program of our big day is not yet finalized, but to give you already a small glimpse, the program will roughly look like this:

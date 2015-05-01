@@ -4,7 +4,7 @@ modal-id: 4
 date: 2015-05-14
 img: thingstodo.png
 alt: Things to do
-project-date: May 2014
+project-date: May 2015
 client: Matirola
 category: Wedding
 description: Things-to-Do, Things-to-See & Where-to-Eat in and around our lovely hometown <b>Amersfoort</b>!
